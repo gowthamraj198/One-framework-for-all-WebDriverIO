@@ -12,7 +12,6 @@ module.exports = class Page {
     * @param path path of the sub page (e.g. /path/to/page.html)
     */
     open () {
-        browser.url('https://master.qagw.agoda.com/')
         return browser.url('/')
     }
 
