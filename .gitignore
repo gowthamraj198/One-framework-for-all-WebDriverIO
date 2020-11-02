@@ -1,0 +1,9 @@
+reports
+node_modules
+.idea
+allure-report
+.eslintrc.json
+.nvmrc
+package-lock.json
+.DS_Store
+.eslintignore
